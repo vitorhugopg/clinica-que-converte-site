@@ -14,6 +14,6 @@ Abra `index.html` diretamente no navegador. É um site estático single-file (HT
 - `assets/foto-vitor.jpg`: retrato profissional usado na seção "Sobre".
 - `CLAUDE.md`: instruções-base do método Clínica que Converte, para continuidade de projeto no Claude Code.
 
-## Pendências antes de publicar
+## Status
 
-- **Link de WhatsApp**: os CTAs usam `https://wa.me/5531983600675`. Confirmar que esse é o número correto de contato comercial antes de publicar.
+Conteúdo, foto e link de WhatsApp (`https://wa.me/5531983600675`, confirmado como número correto) revisados. Sem pendências conhecidas para publicação.
