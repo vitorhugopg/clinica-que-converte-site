@@ -6,12 +6,11 @@ Este repositório é exclusivo para o site público da marca. Não contém, e n�
 
 ## Como abrir
 
-Abra `index.html` diretamente no navegador. É um site estático single-file (HTML + CSS + JS), sem backend e sem dependências além das fontes do Google Fonts. Pode ser publicado em qualquer serviço de hospedagem estática (GitHub Pages, Netlify, Vercel etc.) sem build step.
+Abra `index.html` diretamente no navegador. É um site estático single-file (HTML + CSS + JS, foto embutida em base64), sem backend e sem dependências além das fontes do Google Fonts. Funciona sozinho mesmo baixado avulso (ex: da pasta Downloads), sem precisar de nenhuma outra pasta ou arquivo junto. Pode ser publicado em qualquer serviço de hospedagem estática (GitHub Pages, Netlify, Vercel etc.) sem build step.
 
 ## Estrutura do projeto
 
-- `index.html`: a landing page (hero, o problema, nossa abordagem, as três frentes em bento grid, como funciona o processo, sobre, prova de entrega, diferencial de marca, FAQ, CTA final).
-- `assets/foto-vitor.jpg`: retrato profissional usado na seção "Sobre".
+- `index.html`: a landing page completa (hero, o problema, nossa abordagem, as três frentes em bento grid, como funciona o processo, sobre com foto embutida, prova de entrega, diferencial de marca, FAQ, CTA final). Único arquivo do site, não depende de mais nada.
 - `CLAUDE.md`: instruções-base do método Clínica que Converte, para continuidade de projeto no Claude Code.
 
 ## Status
